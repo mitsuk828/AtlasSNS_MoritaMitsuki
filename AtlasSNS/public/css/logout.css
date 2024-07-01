@@ -1,10 +1,14 @@
 @charset "UTF-8";
 
-html{
+html {
     height: 100%;
 }
 
-body{
+header {
+    text-align: center;
+}
+
+body {
     height: 100%;
-    background: #186AC9;
+    background: linear-gradient(#186AC9, #fde131);
 }
